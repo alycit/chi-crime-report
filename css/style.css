@@ -1,1 +1,9 @@
+.community_area {
+  fill: #ccc;
+}
 
+.community_area_boundary {
+  fill: none;
+  stroke: #777;
+  stroke-linejoin: round;
+}
